@@ -94,7 +94,7 @@ flowchart TB
 
 He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`Mouse_Down`, `Mouse_Over`).
 
-Dad's simple, toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could do (or break). I started programming as a hobby.
+Dad's simple, toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I started programming as a hobby.
 
 Eventually, in 2007, my hobby spiraled out of control and became my career.
 
