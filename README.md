@@ -22,23 +22,25 @@ I was 11 years old. Dad was taking his first computer science classes at the loc
 
 Dad points to a gray window on the computer monitor. The window's title bar reads "Form1". Dad points to the shape of a square centered inside the form.
 
-He clicks on the square: it turns into a circle.
-
-He clicks on the circle: it turns back into a square.
-
-He clicks a few times: it cycles between the two shapes.
-
 ```mermaid
 flowchart LR
     subgraph square[ Form1 ]
         squareShape[ &nbsp ]
     end
+```
+
+He clicks on the square: it turns into a circle.
+
+```mermaid
+flowchart LR
     subgraph circle[ Form1]
         circleShape(( &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ))
     end
-    square--click-->circle
-    circle--click-->square
 ```
+
+He clicks on the circle: it turns back into a square.
+
+He clicks a few times: it cycles between the two shapes.
 
 _"Did you **make** that, Dad!"_ He did!
 
