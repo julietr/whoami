@@ -10,7 +10,7 @@ I primarily use C#, F#, PowerShell, and SQL (many flavors).
 
 In 1998 (age 11), my Dad helped me write my first syntax error. I started coding as a hobby.
 
-In 2007 (age 19), I got my first programming job and started my career in IT.
+In 2007 (age 19), my hobby spiraled out of control and became my career. I got my first programming job.
 
 Since then, I've produced, debugged, and polished millions of lines of production code.
 
@@ -92,19 +92,21 @@ flowchart TB
     input -- User enters '*Juliet*' --> msg
 ```
 
-He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`Mouse_Down`, `Mouse_Over`).
+He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`MouseDown`, `MouseOver`).
 
-Dad's simple, toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I started programming as a hobby.
+Dad's toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I began programming as a hobby.
 
-Eventually, in 2007, my hobby spiraled out of control and became my career.
+That hobby was a stepping stone to my first programming job, and my career in IT.
 
-# See Also
+If not for the opportunity and encourangement to tinker with computers, I might have gone a completely different direction with my life. Maybe I would have become a skydiving instructor. Or a secret agent. A professional boxer. Cat toy designer. A rodeo clown, perhaps.
 
-## Daily Reads
+I'm so glad I became a computer programmer. Now I write the software that the rodeo clown cat toy designer professional boxer secret agent skydiving instructor uses to plan his next jump. Isn't that cool?
+
+# Daily Reads
 
 * [Hacker News](https://news.ycombinator.com/): Aggregates news and articles of interest to software engineers and adjacent fields.
 
-## .NET Resources
+# .NET Resources
 
 I highly recommend that programmers of all levels study these repositories. These are all great examples of SOLID architecture and abstraction:
 
@@ -120,7 +122,7 @@ Additional resources for .NET developers to study:
     * [Regex Tester](https://myregextester.com/): Great for debugging and prototyping regex patterns.
     * [.NET Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions): Official MSDN documentation of .NET-flavored regex.
 
-## Software and Tools
+# Software and Tools
 
 These tools have helped me out immensely throughout my career:
 
@@ -138,7 +140,7 @@ Here are some programming languages I've never used for real projects, but still
 * [OCaml](https://ocaml.org/)
 * [Zig](https://ziglang.org/)
 
-## Reading Material
+# Reading Material
 
 Here are some books which have inspired me:
 
@@ -151,14 +153,14 @@ Some blogs:
 
 * [Chris Olah's blog](https://colah.github.io/): Founder of Anthropic. His blog contains a wealth of technical information about neural networks and machine learning algorithms.
 
-## Videos
+# Watching Material
 
 Here are some videos and tech talks which have inspired me:
 
 * [3blue1brown](https://www.3blue1brown.com/): A mathematician explains the visual intuition behind subjects that are often mathematically opaque, such as calculus, linear algebra, and large language models.
 * [Concurrency in Newsqueak](https://www.youtube.com/watch?v=hB05UFqOtFA) by [Rob Pike](http://herpolhode.com/rob/): An implementation of message-passing concurrency.
 
-## Humans
+# Humans
 
 People who inspired me:
 
