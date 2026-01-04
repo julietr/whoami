@@ -2,7 +2,7 @@ This repo is an extended profile for [@julietr](https://github.com/julietr).
 
 My name is Juliet Rosenthal. I'm a professional code monkey in Omaha, Nebraska.
 
-I primarily use C#, F#, Powershell, and SQL (many flavors).
+I primarily use C#, F#, PowerShell, and SQL (many flavors).
 
 [[_TOC_]]
 
@@ -10,9 +10,9 @@ I primarily use C#, F#, Powershell, and SQL (many flavors).
 
 ## Short version:
 
-In 1998 (age 11), my dad helped me write my first syntax error. I started coding as a hobby.
+In 1998 (age 11), my Dad helped me write my first syntax error. I started coding as a hobby.
 
-2007 (age 19), I got my first programming job, started my career in IT.
+In 2007 (age 19), I got my first programming job and started my career in IT.
 
 Since then, I've produced, debugged, and polished millions of lines of production code.
 
