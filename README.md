@@ -94,13 +94,13 @@ flowchart TB
 
 He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`MouseDown`, `MouseOver`).
 
-Dad's toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I began programming as a hobby.
+Dad's toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break).
 
-That hobby was a stepping stone to my first programming job, and my career in IT.
+In 2007, my programming hobby spiraled out of control -- I got my first programming job and began a successful career in IT.
 
 If not for the opportunity and encourangement to tinker with computers, I might have gone a completely different direction with my life. Maybe I would have become a skydiving instructor. Or a secret agent. A professional boxer. Cat toy designer. A rodeo clown, perhaps.
 
-I'm so glad I became a computer programmer. Now I write the software that the rodeo clown cat toy designer professional boxer secret agent skydiving instructor uses to plan his next jump. Isn't that cool?
+So anyway my name is Juliet and I code.
 
 # Daily Reads
 
