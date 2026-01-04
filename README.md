@@ -10,7 +10,7 @@ I primarily use C#, F#, PowerShell, and SQL (many flavors).
 
 In 1998 (age 11), my Dad helped me write my first syntax error. I started coding as a hobby.
 
-In 2007 (age 19), my hobby spiraled out of control and became my career. I got my first programming job.
+In 2007 (age 19), I got my first programming job.
 
 Since then, I've produced, debugged, and polished millions of lines of production code.
 
