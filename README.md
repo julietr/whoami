@@ -131,7 +131,14 @@ These tools have helped me out immensely throughout my career:
 * [MermaidJS](https://mermaid.js.org/ecosystem/tutorials.html) ([Live Editor](https://mermaid.live/)): Diagrams, charts, and other visuals. Great for high-level, semi-formal documentation.
 * [GraphViz](https://graphviz.org/): Diagrams and charts for highly precise engineering diagrams and data visualizations.
 
-## Books
+Here are some programming languages I've never used for real projects, but still find interesting and worthy of study:
+
+* [Rust](https://rust-lang.org/)
+* [Haskell](https://www.haskell.org/)
+* [OCaml](https://ocaml.org/)
+* [Zig](https://ziglang.org/)
+
+## Reading Material
 
 Here are some books which have inspired me:
 
@@ -140,6 +147,10 @@ Here are some books which have inspired me:
 * (2020) [The Algorithm Design Manual](https://www.algorist.com/) by Steven Skiena
 * (2022) [Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/books/) by Charles Petzold
 
+Some blogs:
+
+* [Chris Olah's blog](https://colah.github.io/): Founder of Anthropic. His blog contains a wealth of technical information about neural networks and machine learning algorithms.
+
 ## Videos
 
 Here are some videos and tech talks which have inspired me:
@@ -147,8 +158,12 @@ Here are some videos and tech talks which have inspired me:
 * [3blue1brown](https://www.3blue1brown.com/): A mathematician explains the visual intuition behind subjects that are often mathematically opaque, such as calculus, linear algebra, and large language models.
 * [Concurrency in Newsqueak](https://www.youtube.com/watch?v=hB05UFqOtFA) by [Rob Pike](http://herpolhode.com/rob/): An implementation of message-passing concurrency.
 
-## People
+## Humans
 
-And some people who inspired me:
+People who inspired me:
 
 * [Lynn Conway](https://ai.eecs.umich.edu/people/conway/conway.html), a pioneer for trans women in computer science and software engineering.
+
+Organizations:
+
+* [Girls Who Code](https://girlswhocode.com/)
