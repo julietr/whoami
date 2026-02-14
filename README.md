@@ -44,7 +44,7 @@ I'd never seen source code before. I had no working idea of what `Private` or `S
 
 Dad tells me his homework assignment (Week 2: Conditionals) is programmed in Visual Basic. He closes his current project. He navigates through the IDE: `File` -> `New Project` -> `Standard EXE` -> Open. The IDE shows a gray `Form1` rendered in design mode. He navigates through the IDE again: `File` -> `Save Project As`: `HelloWorld`.
 
-Dad drags a button from the toolbox onto the form. It renders with the default name `Command1`. He double-clicks the button, which auto-generates an empty `Command1_Click` event handler in the form's code-behind. Dad fills in the event handler:
+Dad drags a button from the toolbox, and drops it onto the center of the form. The button renders with the default name `Command1`. He double-clicks the button, which auto-generates an empty `Command1_Click` event handler in the form's code-behind. Dad fills in the event handler:
 
 ```vb
 Private Sub Command1_Click()
@@ -58,13 +58,11 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-Dad executes the program in the debugger. The form and button render a new window. Dad clicks the button. An input dialog appears, prompting me to enter my name. I hit Enter. A second dialog appears with the familiar greeting.
+Dad executes the program in the debugger. The form and button render a new window. Dad clicks the button. An input dialog appears, prompting me to enter my name. I hit Enter. A second dialog appears with the familiar greeting. He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`MouseDown`, `MouseOver`). We added labels and buttons to the form.
 
-He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`MouseDown`, `MouseOver`). We added labels and buttons to the form.
+Dad's toy-like programs left quite an impression on my younger self. He encouraged me to copy snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I quickly took to programming as a hobby. I started with Hello World and tic-tac-toe. After I finished the Visual Basic textbook, the appendix had a small chapter on VBScript: VB that runs in a browser. That lead me down a yet deeper rabbit hole learning HTML, CSS, and JavaScript.
 
-Dad's toy-like programs left quite an impression on my younger self. He encouraged me to copy snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break). I quickly took to programming as a hobby.
-
-In 2007, my hobby spiraled out of control when it became my career. I found gainful employment as a Level 1 Code Monkey, then spent the next 20+ years building big systems, solving hard problems, and meeting highly interesting people in IT.
+In 2007, my programming hobby spiraled out of control when it became my career. I found gainful employment as a Level 1 Code Monkey, then spent the next 20+ years building big systems, solving hard problems, and meeting highly interesting people in IT.
 
 If not for Dad's encouragement, I may not have discovered my passion for hacking and tinkering with computers. I might have gone a completely different direction with my life. Maybe I would have become a skydiving instructor. Or a secret agent. A professional boxer. Cat toy designer. A rodeo clown, perhaps.
 
