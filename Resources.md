@@ -4,7 +4,7 @@ Here are some external resources I find useful.
 
 ## Daily Reads
 
-* [Hacker News](https://news.ycombinator.com/): Aggregates news and articles of interest to software engineers and adjacent fields.
+* [Hacker News](https://news.ycombinator.com/)
 * Reddit [r/news](https://www.reddit.com/r/news/), [r/politics](https://www.reddit.com/r/politics/), [r/lgbt](https://www.reddit.com/r/lgbt/)
 
 ## Software Development
@@ -18,14 +18,12 @@ These tools have helped me out immensely throughout my career:
 * [Notepad++](https://notepad-plus-plus.org/downloads/): A highly-capable alternative to Windows Notepad.
 * [WinMerge](https://winmerge.org/): Diffs files and folders.
 * [MermaidJS](https://mermaid.js.org/ecosystem/tutorials.html) ([Live Editor](https://mermaid.live/)): Diagrams, charts, and other visuals. Great for high-level, semi-formal documentation.
-* [GraphViz](https://graphviz.org/): Diagrams and charts for highly precise engineering diagrams and data visualizations.
+* [GraphViz](https://graphviz.org/): Diagrams and charts for precise engineering diagrams and data visualizations.
 
-Here are some programming languages I've never used for real projects, but still find interesting and worthy of study:
+### Architecture and Design
 
-* [Rust](https://rust-lang.org/)
-* [Haskell](https://www.haskell.org/)
-* [OCaml](https://ocaml.org/)
-* [Zig](https://ziglang.org/)
+* [.NET Design Patterns](https://dofactory.com/net/design-patterns): Inspired by the original Java "Gang of Four" patterns.
+* Martin Fowler's [Online Catalog of Refactorings](https://refactoring.com/catalog/) and [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/).
 
 ### .NET / C#
 
@@ -36,13 +34,17 @@ I highly recommend that programmers of all levels study these repositories. Thes
 * [Akka.NET](https://github.com/akkadotnet/akka.net) (a .NET port of [Pekko](https://github.com/apache/pekko)): An implementation of actor-model concurrency.
 * [Reqnroll](https://github.com/reqnroll/Reqnroll) (a .NET port of [Cucumber](https://cucumber.io/docs)): A test automation framework that allows developers to write tests in a human-readable `Given`/`When`/`Then` format.
 
-Additional resources for .NET developers to study:
-
-* [.NET Design Patterns](https://dofactory.com/net/design-patterns): Inspired by the original Java "Gang of Four" patterns.
 * [Regular Expressions](https://www.regular-expressions.info/tutorial.html): A comprehensive regex guide.
     * [Regex Tester](https://myregextester.com/): Great for debugging and prototyping regex patterns.
     * [.NET Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions): Official MSDN documentation of .NET-flavored regex.
 
+
+### Languages I've never used for a real project, but still find interesting and worthy of study
+
+* [Rust](https://rust-lang.org/)
+* [Haskell](https://www.haskell.org/)
+* [OCaml](https://ocaml.org/)
+* [Zig](https://ziglang.org/)
 
 ## Reading Material
 
