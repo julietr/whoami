@@ -28,7 +28,7 @@ He clicks a few times: it cycles between the two shapes: 🔵->🟦->🔵->🟦.
 
 _"Dad, did you **make** that?!"_ He did!
 
-He closes the program. The gray form re-renders itself in "design mode" embedded within a Visual Basic 5 development environment. In the form designer, Dad shows me the properties and event handlers of the `Shape` component. He navigates to a function like this:
+He closes the program. The gray form re-renders itself in "design mode" embedded within a Visual Basic 5 development environment. In the form designer, Dad shows me the properties and event handlers of the `Shape` component. He navigates to a function:
 
 ```vb
 Private Sub Shape1_Click()
@@ -40,7 +40,7 @@ Private Sub Shape1_Click()
 End Sub
 ```
 
-I'd never seen source code prior to Dad's homework assignment on conditionals. I had no working idea of what `Private` or `Sub` meant, but the `If-Then` pattern made perfect sense. He showed me how IntelliSense/autocomplete functionality works, how to set the shape's line color and line weight. It was neat to see with my own eyes.
+I'd never seen source code prior to Dad's homework assignment on conditionals. I had no working idea of what `Private` or `Sub` meant, but the `If-Then` pattern made perfect sense. He showed me how the IDE's autocomplete functionality works, how to set the shape's line color and line weight. It was neat to see with my own eyes.
 
 Dad tells me his homework assignment is written in Visual Basic. He creates a new project called `HelloWorld`. The IDE shows a gray `Form1` rendered in design mode. Dad drags a button from the toolbox onto the form. It renders with the default name `Command1`. He double-clicks the button, which creates an empty `Command1_Click` event handler in the form's code-behind. Dad fills in the event handler:
 
