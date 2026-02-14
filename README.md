@@ -42,7 +42,7 @@ Private Sub Shape1_Click()
 End Sub
 ```
 
-I'd never seen source code prior to Dad's homework assignment on conditionals. I had no working idea what `Private` or `Sub` meant, but the `If-Then` pattern made perfect sense. He showed me how IntelliSense/autocomplete functionality works, how to set the shape's line color and line weight. It was neat to see with my own eyes.
+I'd never seen source code prior to Dad's homework assignment on conditionals. I had no working idea of what `Private` or `Sub` meant, but the `If-Then` pattern made perfect sense. He showed me how IntelliSense/autocomplete functionality works, how to set the shape's line color and line weight. It was neat to see with my own eyes.
 
 Dad tells me his homework assignment is written in Visual Basic. He creates a new project called `HelloWorld`. The project opens the drag-and-drop form designer. Dad drags a button from the toolbox onto the form. It renders with the default name `Command1`. He double-clicks the button, which creates an empty `Command1_Click` event handler in the form's code-behind. Dad fills in the event handler:
 
@@ -62,17 +62,18 @@ He executes the program in the debugger. The form and button render a new window
 
 He shows me some permutations of these programs: adding OK/Cancel buttons to the `MsgBox`, different event handlers (`MouseDown`, `MouseOver`).
 
-Dad's toy-like programs captivated my young mind. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break).
+Dad's toy-like programs left quite an impression on my younger self. He encouraged me to copy the code snippets from his college textbooks into the IDE, tinker with the code, and see what I could make (or break).
 
-In 2007, my programming hobby spiraled out of control -- I got my first programming job and began a successful career in IT.
+In 2007, my programming hobby spiraled out of control; I found gainful employment as a Level 1 Code Monkey. Since then, I've spent the last 20+ years building big systems, solving hard problems, and meeting highly interesting people in IT.
 
-If not for the opportunity and encourangement to tinker with computers, I might have gone a completely different direction with my life. Maybe I would have become a skydiving instructor. Or a secret agent. A professional boxer. Cat toy designer. A rodeo clown, perhaps.
+If not for Dad encouragement, I may not have discovered my passion for tinkering with computers, I might have gone a completely different direction with my life. Maybe I would have become a skydiving instructor. Or a secret agent. A professional boxer. Cat toy designer. A rodeo clown, perhaps.
 
-So anyway my name is Juliet and I code.
+My name is Juliet and I like to code.
 
 # Daily Reads
 
 * [Hacker News](https://news.ycombinator.com/): Aggregates news and articles of interest to software engineers and adjacent fields.
+* Reddit [r/news](https://www.reddit.com/r/news/), [r/politics](https://www.reddit.com/r/politics/), [r/lgbt](https://www.reddit.com/r/lgbt/)
 
 # .NET Resources
 
@@ -110,10 +111,10 @@ Here are some programming languages I've never used for real projects, but still
 
 # Reading Material
 
-Here are some books which have inspired me:
+Here are some books that inspired me:
 
 * (2019) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
-* (1996) [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) by Chris Okasaki
+* (1996) [Purely Functional Data Structures (PDF)](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) by Chris Okasaki
 * (2020) [The Algorithm Design Manual](https://www.algorist.com/) by Steven Skiena
 * (2022) [Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/books/) by Charles Petzold
 
