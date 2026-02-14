@@ -6,13 +6,13 @@ I primarily use C#, F#, PowerShell, and SQL (many flavors).
 
 ## How did you get into software?
 
-**tl;dr version**:
+### tl;dr version
 
 * In 1998 (age 11), my Dad helped me write my first syntax error. I started coding as a hobby.
 * In 2007 (age 19), I got my first programming job.
 * Since then, I've produced, debugged, and polished millions of lines of production code.
 
-**Long version:**
+### Long version
 
 *(I've told a version of this story at least 1000 times. I enjoy telling this story.)*
 
