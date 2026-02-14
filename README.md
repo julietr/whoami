@@ -18,7 +18,7 @@ I primarily use C#, F#, PowerShell, and SQL (many flavors).
 
 In 1998, I was 11 years old. Dad was taking his first computer science classes at the local community college. He was excited to show me his completed homework assignment:
 
-Dad points to a gray window on the computer monitor. The window's title bar reads "Form1". Dad points to the shape of a square centered inside the form: 🟦.
+Dad points to a gray window on the computer monitor. The window's title bar reads `Form1`. Dad points to the shape of a square centered inside the form: 🟦.
 
 He clicks on the square: it turns into a circle: 🔵.
 
