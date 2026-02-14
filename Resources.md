@@ -5,7 +5,6 @@ Here are some external resources I find useful.
 ## Daily Reads
 
 * [Hacker News](https://news.ycombinator.com/)
-* Reddit [r/news](https://www.reddit.com/r/news/), [r/politics](https://www.reddit.com/r/politics/), [r/lgbt](https://www.reddit.com/r/lgbt/)
 
 ## Software Development
 
