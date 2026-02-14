@@ -34,10 +34,11 @@ I highly recommend that programmers of all levels study these repositories. Thes
 * [Akka.NET](https://github.com/akkadotnet/akka.net) (a .NET port of [Pekko](https://github.com/apache/pekko)): An implementation of actor-model concurrency.
 * [Reqnroll](https://github.com/reqnroll/Reqnroll) (a .NET port of [Cucumber](https://cucumber.io/docs)): A test automation framework that allows developers to write tests in a human-readable `Given`/`When`/`Then` format.
 
-* [Regular Expressions](https://www.regular-expressions.info/tutorial.html): A comprehensive regex guide.
-    * [Regex Tester](https://myregextester.com/): Great for debugging and prototyping regex patterns.
-    * [.NET Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions): Official MSDN documentation of .NET-flavored regex.
+### Regex
 
+* [Regular Expressions](https://www.regular-expressions.info/tutorial.html): A comprehensive regex guide.
+* [Regex Tester](https://myregextester.com/): Great for debugging and prototyping regex patterns.
+* [.NET Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions): Official MSDN documentation of .NET-flavored regex.
 
 ### Languages I've never used for a real project, but still find interesting and worthy of study
 
